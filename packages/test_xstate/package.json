@@ -1,0 +1,20 @@
+{
+  "name": "test_xstate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.4"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "immer": "^10.1.1",
+    "xstate": "^5.19.2"
+  }
+}

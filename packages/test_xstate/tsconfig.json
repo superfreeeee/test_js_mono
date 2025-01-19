@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "ESNext"],
+    "types": ["vitest/globals"],
+    "strict": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true
+  }
+}
